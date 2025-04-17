@@ -11,7 +11,7 @@
 | 항목 | 버전 / 링크 | 비고 |
 |------|-------------------------------|------|
 | **dizest** | <https://github.com/season-framework/dizest> | 프레임워크 핵심 |
-| **dizest LLM server (MCP client)** | **(추후 공개)** | 서버 주소 미정 |
+| **dizest LLM server (MCP client)** | <https://github.com/NowDoor/dizest_MCP_client/tree/main> | LLM 응답 시스템이 들어가 있는 Dizest workflow |
 
 **Tip:** 추가적인 의존성(예: Python 버전, OS, Docker 등)이 있다면 이 섹션에 함께 기재하세요.
 
