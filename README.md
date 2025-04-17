@@ -3,8 +3,8 @@ dizest workflow Automation Tools with agent, MCP
 ---
 
 ## Demo
-여기에 데모를 적을 예정
-
+[![Video](https://img.youtube.com/vi/22ftoUcyLh8/0.jpg)](https://youtu.be/22ftoUcyLh8)
+> 중간에 실행 시간이 길기 때문에 적당히 넘겨보셈 ㅋ
 ---
 
 ## 필수 환경
