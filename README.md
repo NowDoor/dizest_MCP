@@ -1,10 +1,10 @@
 # dizest_MCP
-dizest workflow Automation Tools with agent, MCP
+>dizest workflow Automation Tools with agent, MCP
 ---
 
 ## Demo
 [![Video](https://img.youtube.com/vi/22ftoUcyLh8/0.jpg)](https://youtu.be/22ftoUcyLh8)
-> 중간에 실행 시간이 길기 때문에 적당히 넘겨보셈 ㅋ
+> 클릭하면 유튜브로 넘어가요 중간에 실행 시간이 길기 때문에 적당히 넘겨보셈 ㅋ
 ---
 
 ## 필수 환경
