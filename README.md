@@ -17,16 +17,19 @@
 
 ---
 
-## Installation/설치
+## 설치
 ```
 pip install dizest_MCP 
 ```
-## execution/실행 방법
+## 실행 방법
 ```
 export TAVILY_API_KEY={Your TAVILY_API_KEY}
 export export OPENAI_API_KEY= {Your OPENAI_API_KEY}
 dizest_MCP
 ```
+---
+## Dizest 환경 구성
+
 ---
 
 ## 기여
