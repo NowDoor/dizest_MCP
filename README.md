@@ -28,10 +28,17 @@ export export OPENAI_API_KEY= {Your OPENAI_API_KEY}
 dizest_MCP
 ```
 ---
-## Dizest 환경 구성
-
+## Dizest 설치 및 환경 구성
+MCP server - client 모두 열어 놓는 것이 좋다
+```
+pip install dizest
+cd {Your directory}
+dizest install {Your project Name}
+dizest run #port 4000 다른 포트 지정시 --port '포트번호'를 적어주면 된다
+```
+> web 접속 후 해당 ip:port로 접속
+웹 상에서 MCP client 파일을 넣어주거나 '{Your directory}/{Your project Name}/data'의 경로에 삽입하면 된다.
 ---
-
 ## 기여
 1. 기여자 없음 ㅠ
 
