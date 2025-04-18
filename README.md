@@ -40,9 +40,7 @@ MIT License — 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요
 ---
 
 ## 연락처
-- **Maintainer**: [@yourhandle](https://github.com/yourhandle)
-- **Email**: you@example.com
-- **Slack**: #your-project
+- **Email**: bijou@season.co.kr
 
 > 프로젝트가 도움이 되었다면 ⭐️ Star 를 눌러주세요!
 
