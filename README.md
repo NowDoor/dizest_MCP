@@ -36,8 +36,9 @@ cd {Your directory}
 dizest install {Your project Name}
 dizest run #port 4000 다른 포트 지정시 --port '포트번호'를 적어주면 된다
 ```
-> web 접속 후 해당 ip:port로 접속
+web 접속 후 해당 ip:port로 접속
 웹 상에서 MCP client 파일을 넣어주거나 '{Your directory}/{Your project Name}/data'의 경로에 삽입하면 된다.
+
 ---
 ## 기여
 1. 기여자 없음 ㅠ
